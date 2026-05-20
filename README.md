@@ -9,7 +9,6 @@ AI Student at Arab Open University | Passionate about Data Analysis & Machine Le
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Cars Data Analysis](./Car.ipynb) | Analysis of cars sales and profit data with 25+ visualizations | Python, Pandas, Plotly |
-| Coming soon... | ML Classification Model | scikit-learn |
 
 ---
 
