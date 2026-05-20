@@ -14,11 +14,10 @@ AI Student at Arab Open University | Passionate about Data Analysis & Machine Le
 ---
 
 ## 🛠️ Skills
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib, Plotly)
 - SQL & Database Design
 - Machine Learning Basics
 - Docker | Git | Jupyter Notebook
-
 ---
 
 ## 📫 Connect with me
